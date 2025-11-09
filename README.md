@@ -1,1 +1,1 @@
-# AISSMS-COE-CANTEEN
+# Automating canteen orders
